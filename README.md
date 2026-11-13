@@ -1,6 +1,3 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rusdi%20Fadli%20Nuryuda&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20(React%20%26%20Flutter)%20%7C%20AI%20%26%20IoT%20Engineer&descAlignY=58&descSize=18" />
-</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
